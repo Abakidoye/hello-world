@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Ohayo-gozaimasu!
+
+Hajimemashite!
+Senmon wa ICT desu!
+Dozo yoroshiku onegaishimasu
